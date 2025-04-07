@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\abc\\test_2\\",
+  "WorkspaceRootPath": "C:\\abc\\test_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F7793D7-6173-44B4-8A51-64E2C1E4C6A5}|test_1.csproj|c:\\abc\\test_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F7793D7-6173-44B4-8A51-64E2C1E4C6A5}|test_1.csproj|c:\\abc\\test_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F7793D7-6173-44B4-8A51-64E2C1E4C6A5}|test_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\abc\\test_2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\abc\\test_1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\abc\\test_2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\abc\\test_1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T13:13:13.699Z",
               "EditorCaption": ""
